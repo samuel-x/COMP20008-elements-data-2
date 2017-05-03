@@ -1,4 +1,4 @@
-TechE_meas,SciTech,bband,LGA2011,TechE_rank,NetC_meas,pvtDwlgs,NetC_sd,Dialup,ICT_rank,ICT_meas,ICT_sd,TechE_sd,LGA_Name,Electrocc,bband_meas,PvtBband,Tech_sd,State,OtherConn,bband_sd,ICToccup,NetC_rank,Tech_rank,LabForce,TotalConn,bband_rank,InfMedTel
+TechE_meas,SciTech,bband,area_code,TechE_rank,NetC_meas,pvtDwlgs,NetC_sd,Dialup,ICT_rank,ICT_meas,ICT_sd,TechE_sd,LGA_Name,Electrocc,bband_meas,PvtBband,Tech_sd,State,OtherConn,bband_sd,ICToccup,NetC_rank,Tech_rank,LabForce,TotalConn,bband_rank,InfMedTel
 0.054,1003,12158,10050,151,0.628,18641,0.57,557,180,0.011,0.06,0.1,Albury (C),71,0.648,12076,0.24,NSW,844,0.24,192,181,180,23810,21605,225,290
 0.065,625,5746,10110,121,0.638,8587,0.65,349,127,0.017,0.54,0.34,Armidale Dumaresq (A),25,0.66,5664,0.47,NSW,435,0.34,162,167,147,11207,10229,200,108
 0.145,2320,11319,10150,35,0.71,15296,1.2,410,21,0.04,2.47,2.07,Ashfield (A),60,0.735,11239,1.68,NSW,544,0.99,808,67,29,21966,17294,75,868
